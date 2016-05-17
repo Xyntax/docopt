@@ -7,7 +7,8 @@
 .. image:: https://img.shields.io/pypi/v/docopt.svg
     :target: https://pypi.python.org/pypi/docopt
 
-**cdxy基于原版修改:**
+**cdxy基于原版修改:**  
+
 - 增加函数识别``Example:``字段，使输入错误时能打印出Usage和Example字段
 - 输入错误时报出具体错误的参数
 
